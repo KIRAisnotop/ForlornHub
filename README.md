@@ -1,1 +1,2 @@
 # ForlornHub
+THIS SCRIPT IS MADE FOR SOLARA
